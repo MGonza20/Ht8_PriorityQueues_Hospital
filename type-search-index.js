@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"iPriorityQueue"},{"p":"<Unnamed>","l":"MainGUI"},{"p":"<Unnamed>","l":"Paciente"},{"p":"<Unnamed>","l":"Test_HT8_Hospital"},{"p":"<Unnamed>","l":"VectorHeap"}];updateSearchResults();
